@@ -1,2 +1,2 @@
-# screendragon
-SD-UX
+# Screendragon
+Screendragon UX design
